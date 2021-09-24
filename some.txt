@@ -1,3 +1,4 @@
 hello world
 text added from second commit
 text from branch b2
+another master commit
